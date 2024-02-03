@@ -1,0 +1,57 @@
+.card {
+    width: 300px;
+    border: 5px outset rgb(77, 28, 0);
+    background-image: url(bg.jpg);
+    padding: 10px;
+    box-shadow: 2px 2px;
+    margin: 50px;
+     background-color: rgb(255, 230, 204);
+}
+
+.Namedog {
+font: bold 20pt sans-serif;
+padding-left: 10px;
+margin-top: 5px;
+margin-bottom: 10px;
+border: 5px outset rgb(223, 89, 12);
+box-shadow: 2px 2px;
+}
+
+.dog-pics {
+    width: 300px;
+    border: 5px outset rgb(77, 28, 0);
+    box-sizing: border-box;
+    margin-bottom: 10px;
+} 
+
+.info{
+    border: 5px outset rgb(128, 64, 0);
+    padding: 10px;
+    background-color: rgb(223, 121, 13);
+    text-align: justify;
+}
+
+.Note {
+font-style: italic;
+font-weight: bold;
+margin: 0px;
+}
+
+
+
+
+.Advantage {
+    margin:0px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+ul {
+    text-align: left;
+    list-style-type: none;
+    padding-left: 0pt;
+}
+
+hr {
+border-top: 2px solid black;
+}
